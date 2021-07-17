@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.14",
+    "postcss-import": "^13.0.0",
+    "tailwindcss": "^2.0.1"
+  },
+  "name": "jekyll_template",
+  "description": "Standard Jekyll + TailwindCSS + SASS Static Site Template",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbkkb7x/jekyll_template.git"
+  },
+  "author": "nbkkb7x <mapope83@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbkkb7x/jekyll_template/issues"
+  },
+  "homepage": "https://github.com/nbkkb7x/jekyll_template#readme"
+}
